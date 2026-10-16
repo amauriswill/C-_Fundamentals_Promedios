@@ -1,4 +1,9 @@
-﻿using System;
+﻿// Amauris Willmore
+// C# Fundamentos - Ejercicio de Promedios
+// Profesor: Manuel Titin
+//----------
+
+using System;
 
 class Program
 {
